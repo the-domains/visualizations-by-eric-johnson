@@ -1,0 +1,28 @@
+name: Visualizations by Eric Johnson
+favicon: null
+layout_spectrum: 0.6879876714665443
+typography_spectrum: 0.5014306623488665
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6224491845350713
+  lightness: 0.9224051011260599
+  saturation: 0.07543456787243485
+  rhythmicContrast: 0.48349649109877646
+purpose: []
